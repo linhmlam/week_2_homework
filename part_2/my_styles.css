@@ -5,3 +5,23 @@
   /* Make the invisible visible */
   border: thin red solid;
 }
+
+h1 {
+  height: 200px;
+  background-color: grey;
+}
+
+.threecolumn {
+  width: 33%;
+  float: left;
+}
+
+.fourcolumn {
+  width: 25%;
+  float: left;
+}
+
+.footer {
+  float: bottom;
+
+}
